@@ -14,6 +14,8 @@ Para la elaboración del mismo se han usado diferentes tecnologías como:
 
 · StatsBomb API
 
+· Jupyter Notebook
+
 
 
 En el archivo de Jupyter Notebook se explica paso a paso que se esta realizando para la extracción, transformación y posterior análisis de los datos.
