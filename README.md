@@ -22,6 +22,7 @@ En el archivo de Jupyter Notebook se explica paso a paso que se esta realizando 
 
 Aqui adjunto unas gráficas de ejemplo para que puedan ver como sería el resultado final del análisis gráfico. En este caso se realiza el análisis de los pases de Fabián Ruiz Peña, jugador de la Selección Española de Fútbol.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This is a project in which, using a dataset extracted from the public [StatsBomb](https://statsbomb.com/es/) API, we analyze the passes made by players who participated in the Euro 2024 final.
 
