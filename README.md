@@ -23,3 +23,7 @@ En el archivo de Jupyter Notebook se explica paso a paso que se esta realizando 
 Aqui adjunto unas gráficas de ejemplo para que puedan ver como sería el resultado final del análisis gráfico. En este caso se realiza el análisis de los pases de Fabián Ruiz Peña, jugador de la Selección Española de Fútbol.
 
 ![imagen](https://github.com/juancarlospizarro/Final-Euro-2024/blob/main/Graphics/Fabian%201%20half.png)
+
+![imagen](https://github.com/juancarlospizarro/Final-Euro-2024/blob/main/Graphics/Fabian%201%20half.png)
+
+![imagen](https://github.com/juancarlospizarro/Final-Euro-2024/blob/main/Graphics/Fabian%201%20half.png)
