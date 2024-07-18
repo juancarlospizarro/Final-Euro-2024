@@ -14,3 +14,8 @@ Para la elaboración del mismo se han usado diferentes tecnologías como:
 
 · StatsBomb API
 
+
+
+En el archivo de Jupyter Notebook se explica paso a paso que se esta realizando para la extracción, transformación y posterior análisis de los datos.
+
+Aqui adjunto unas gráficas de ejemplo para que puedan ver como sería el resultado final del análisis gráfico. En este caso se realiza el análisis de los pases de Fabián Ruiz Peña, jugador de la Selección Española de Fútbol.
