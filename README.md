@@ -24,6 +24,6 @@ Aqui adjunto unas gráficas de ejemplo para que puedan ver como sería el result
 
 ![imagen](https://github.com/juancarlospizarro/Final-Euro-2024/blob/main/Graphics/Fabian%201%20half.png)
 
-![imagen](https://github.com/juancarlospizarro/Final-Euro-2024/blob/main/Graphics/Fabian%201%20half.png)
+![imagen](https://github.com/juancarlospizarro/Final-Euro-2024/blob/main/Graphics/Fabian%202%20half.png)
 
 ![imagen](https://github.com/juancarlospizarro/Final-Euro-2024/blob/main/Graphics/Fabian%201%20half.png)
